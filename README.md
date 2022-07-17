@@ -1,7 +1,7 @@
 # ProjetoJBSSqlCommands
 Projeto de estudos * Visual Studio * MVC * EntityFramework * WindowsForms
 
-Julio B.S.
+J.B.S.
 
 Projeto de estudos
 Criado com Visual Studio 
